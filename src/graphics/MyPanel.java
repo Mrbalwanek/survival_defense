@@ -167,7 +167,7 @@ public class MyPanel extends JPanel {
                         characters.clear();
                         enemies.clear();
 
-                        wave = 98;
+                        wave = 0;
                         XP = 0;
                         level = 1;
                         XPProgression = 500;
